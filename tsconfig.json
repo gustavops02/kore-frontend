@@ -13,6 +13,6 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts",
-    "nativewind-env.d.ts"
-  ]
+    "nativewind-env.d.ts", 
+    "app/splash.jsx", "app/index.jsx", "app/auth/register.jsx", "app/auth/login.jsx", "components/input.jsx"  ]
 }

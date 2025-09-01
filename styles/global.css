@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer components {
+    .px-35 {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+
+    .w-image-standard {
+        width: 275px;
+        height: 211px;
+    }
+}
